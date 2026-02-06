@@ -17,6 +17,10 @@ Main Goal:
 02/06/2026 2am:
 <img width="1234" height="2144" alt="image" src="https://github.com/user-attachments/assets/e1c7cdae-a6ef-41a9-9294-d7ecf33221b8" />
 
+1pm:
+<img width="1234" height="2056" alt="image" src="https://github.com/user-attachments/assets/84b592ed-7ac9-4887-8fda-4a4fe50bb9c4" />
+
+
 
 
 
