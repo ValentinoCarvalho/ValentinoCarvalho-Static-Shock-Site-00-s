@@ -8,6 +8,10 @@ Main Goal:
 02/05/2026:
 <img width="1234" height="1018" alt="image" src="https://github.com/user-attachments/assets/00738502-5160-44ff-8127-1dba7a0a09cb" />
 
+02/06/2026 2am:
+<img width="1234" height="2144" alt="image" src="https://github.com/user-attachments/assets/e1c7cdae-a6ef-41a9-9294-d7ecf33221b8" />
+
+
 
 
 # Static Shock – Fan Website (HTML & CSS Study)
